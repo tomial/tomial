@@ -3,11 +3,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=tomial)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 115 Contributions in the Year 2021
+> 🏆 117 Contributions in the Year 2021
  > 
 > 📦 65.9 kB Used in Github's Storage 
  > 
