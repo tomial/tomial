@@ -3,38 +3,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=tomial)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 118 Contributions in the Year 2021
- > 
-> 📦 65.9 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 24 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   22 hrs 11 mins      ███████████████████████░░   93.65% 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-Ruby                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Ruby                     1 hr 4 mins         ███████████████████░░░░░░   75.9% 
+ERB                      20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.1%
 
 🔥 Editors: 
-VS Code                  23 hrs 42 mins      █████████████████████████   100.0%
+RubyMine                 1 hr 25 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      23 hrs 17 mins      ████████████████████████░   98.27% 
-Linux                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+Mac                      1 hr 25 mins        █████████████████████████   100.0%
 
 ```
 
@@ -50,10 +34,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/tomial/tomial/main/charts/bar_graph.png) 
-
-
- Last Updated on 04/09/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
