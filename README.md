@@ -1,10 +1,22 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=tomial)
+<div align="center">
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomial&layout=compact" />
+</a>
+  </div>
 
-```
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" height="30" width="30">
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby" />
+  <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go" />
+  <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Vue-orange?style=flat&logo=vue.js" />
+    
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Vim-green?style=flat&logo=vim" />
+    <img src="https://img.shields.io/badge/-Spacemacs-blueviolet?style=flat&logo=spacemacs" />
+  </div>
+</div>
+
+---
