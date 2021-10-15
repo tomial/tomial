@@ -5,4 +5,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
-    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" height="30" width="30">
+```
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" height="30" width="30">
+```
