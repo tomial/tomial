@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/-Vue-orange?style=flat&logo=vue.js" />
     
   <div align="center">
+    <img src="https://img.shields.io/badge/-Arch-green?style=flat&logo=archlinux" />
+    <img src="https://img.shields.io/badge/-Pop!_OS-orange?style=flat&logo=popos" />
     <img src="https://img.shields.io/badge/-Vim-green?style=flat&logo=vim" />
     <img src="https://img.shields.io/badge/-Spacemacs-blueviolet?style=flat&logo=spacemacs" />
   </div>
