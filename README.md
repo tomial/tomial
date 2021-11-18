@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby" />
-  <img src="https://img.shields.io/badge/-Ruby-orange?style=flat&logo=rust" />
+  <img src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust" />
   <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go" />
   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-Vue-orange?style=flat&logo=vue.js" />
