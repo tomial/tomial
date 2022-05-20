@@ -1,13 +1,6 @@
 <h3 align="center"> Hi there 👋 </h3>
 
 <div align="center">
-
-<a href="https://github.com/tomial">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomial&layout=compact" />
-</a>
-  </div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby" />
   <img src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=rust" />
   <img src="https://img.shields.io/badge/-Go-blue?style=flat&logo=go" />
@@ -16,9 +9,9 @@
     
   <div align="center">
     <img src="https://img.shields.io/badge/-Arch-green?style=flat&logo=archlinux" />
-    <img src="https://img.shields.io/badge/-Pop!_OS-orange?style=flat&logo=popos" />
+    <img src="https://img.shields.io/badge/-Debian-red?style=flat&logo=debian" />
     <img src="https://img.shields.io/badge/-Vim-green?style=flat&logo=vim" />
-    <img src="https://img.shields.io/badge/-Spacemacs-blueviolet?style=flat&logo=spacemacs" />
+    <img src="https://img.shields.io/badge/-Emacs-purple?style=flat&logo=gnuemacs" />
   </div>
 </div>
 
